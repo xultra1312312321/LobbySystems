@@ -1,0 +1,20 @@
+name: LobbySystem
+version: ${project.version}
+main: me.iloveeatmuffin.lobbysystem.LobbySystem
+api-version: 1.15
+authors: [ILoveEatMuffin]
+description: 大廳插件
+commands:
+  fly:
+    description: 飛行指令
+    usage: /<command>
+  speed:
+    description: 速度指令
+    usage: /<command>
+  hide:
+    description: 隱藏指令
+    usage: /<command>
+
+
+
+
