@@ -1,7 +1,7 @@
 name: LobbySystem
 version: ${project.version}
 main: me.iloveeatmuffin.lobbysystem.LobbySystem
-api-version: 1.15
+api-version: 1.13
 authors: [ILoveEatMuffin]
 description: 大廳插件
 commands:
@@ -14,6 +14,10 @@ commands:
   hide:
     description: 隱藏指令
     usage: /<command>
+  globalmute:
+    description: 禁用聊天室指令
+    usage: /<command>
+
 
 
 
